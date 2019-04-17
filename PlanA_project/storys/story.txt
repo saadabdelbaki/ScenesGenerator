@@ -1,0 +1,63 @@
+client :what's up 
+agent :hey
+client :how are you doing 
+agent :wonderfull, and you ?
+client :im fine, thank you 
+client :i need to pay my insurance fee
+agent :so you declare a statement?
+client :hello
+agent :good morning 
+client :how are you 
+agent :great, and you ?
+client :im fine, thank you 
+client :I am inquiring about my insurance.
+agent :ah, go ahead
+client :hello there 
+agent :morning 
+client :how are you doing 
+agent :great, and you ?
+client :im fine, thank you 
+client :I need to ask you something
+agent :ok, i'm listening
+client :good evening 
+agent :good afternoon 
+client :how are you 
+agent :im fine, and you ?
+client :im fine, thank you 
+client :i need to add some services to my insurance
+agent :so you declare a statement?
+client :howdy 
+agent :how's it going 
+client :how are you doing 
+agent :yes im fine, and you ? 
+client :me too, thanks 
+client :i need to insure my motorcycle 
+agent :What motorcycle will you be insuring?
+client :good morning 
+agent :how do you do 
+client :how are you doing 
+agent :wonderfull, and you ?
+client :me too, thanks 
+client :i need to insure my camion 
+agent :What camion will you be insuring?
+client :evening
+agent :hey, what's up
+client :how are you 
+agent :im fine, and you ?
+client :me too, thanks 
+client :i need to pay my insurance fee
+agent :so you declare a statement?
+client :what's up 
+agent :good evening 
+client :how are you doing 
+agent :yes im fine, and you ? 
+client :me too, thanks 
+client :I have a question about my insurance.
+agent :ok, i'm listening
+client :good morning 
+agent :morning 
+client :how are you doing 
+agent :great, and you ?
+client :im fine, thank you 
+client :i want to insure my car 
+agent :what car ?
