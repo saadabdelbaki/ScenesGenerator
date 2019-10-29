@@ -2,6 +2,8 @@ import re
 import nltk
 from nltk.parse import  RecursiveDescentParser
 from nltk.tokenize import word_tokenize , PunktSentenceTokenizer, RegexpTokenizer
+from nltk.words.sentences
+
 
 
 
@@ -9,6 +11,13 @@ from nltk.tokenize import word_tokenize , PunktSentenceTokenizer, RegexpTokenize
 newT = open("source", "r")
 tokens = word_tokenize(str(newT.read()))
 tokens = str(tokens)
+
+
+//tokens to create 
+sentence = """ This is a slef test reco to make the sentences"""
+tokens = nltk.word_tokenize(sentence)
+tokens
+tagged[0:6]
 
 custom_sent_tokenizer = PunktSentenceTokenizer(tokens)
 
